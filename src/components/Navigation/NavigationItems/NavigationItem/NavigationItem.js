@@ -1,5 +1,4 @@
 import React from "react";
-import NavigationItems from "../NavigationItems";
 import classes from "./NavigationItem.module.css";
 
 const NavigationItem = (props) => (
